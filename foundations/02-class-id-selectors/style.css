@@ -8,7 +8,7 @@
     font-size: 30px;
 }
 
-.odd.three {
+.three {
     font-size: 24px;
 }
 
@@ -16,4 +16,8 @@
     font-size: 24px;
     font-weight: bold;
     background-color: #80FF80;
+}
+
+* {
+    align-content: center;
 }
