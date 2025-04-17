@@ -1,0 +1,20 @@
+.odd {
+    background-color: #f5424250;
+}
+
+.cooler {
+    font-size: x-large;
+}
+
+#id2 {
+    font-size: xx-large;
+    font-weight: normal;
+    color: #0d00ff;
+}
+
+#id4 {
+    color: #000000;
+    background-color: #22ff0060;
+    font-weight: bolder;
+    font-size: x-large;
+}
